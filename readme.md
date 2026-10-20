@@ -17,6 +17,5 @@
 
 <div align=center>
 <h2>Authors</h2>
-<p>Radzmar D. Hajon<br>
-Arcangel D. Elegio</p>
+<p>Radzmar D. Hajon</p>
 </div>
